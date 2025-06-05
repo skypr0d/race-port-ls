@@ -6,7 +6,7 @@ Here is a circuit mapping I created for a Formula 1 event. It may not be excepti
 
 ![image](https://github.com/user-attachments/assets/26286b05-30d6-4608-af77-4cf8149ce466)
 
-[https://forum.cfx.re/t/](https://forum.cfx.re/t/free-race-ymap-ports-of-los-santos/5171639)
+https://forum.cfx.re/t/free-race-ymap-ports-of-los-santos/5171639
 
 
 · Code is accessible = Yes
